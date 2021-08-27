@@ -1,0 +1,4 @@
+db:
+  connection: connection-string-here-from-config-server-remote-application-test
+  host: 222.2.2.2
+  port: 2222
